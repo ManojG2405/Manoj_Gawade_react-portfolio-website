@@ -22,9 +22,9 @@ const Footer = () => {
 
     <div className="footer__socials">
 
-      <a href="https://www.facebook.com/manoj.gawade"><BsFacebook /></a>
-      <a href="https://www.instagram.com/manojgawade24"><BsInstagram /></a>
-      <a href="https://twitter.com"><BsTwitter /></a>
+      <a href="https://www.facebook.com/manoj.gawade" rel="noreferrer" target='_blank'><BsFacebook /></a>
+      <a href="https://www.instagram.com/manojgawade24" rel="noreferrer" target='_blank'><BsInstagram /></a>
+      <a href="https://twitter.com/ManojGawade24" rel="noreferrer" target='_blank'><BsTwitter /></a>
     </div>
     <div className="footer__copyright">
       <small>
