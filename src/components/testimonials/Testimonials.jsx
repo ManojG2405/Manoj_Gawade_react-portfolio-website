@@ -16,23 +16,33 @@ import 'swiper/css/pagination';
 
 const data = [
   {
-    avatar: AVATAR1,
-    name: "Tina Show",
+    avatar: AVATAR3,
+    name: "Mayuresh R",
     review: " Lorem ipsum dolor sit amet consectetur adipisicing eli Aliquam culpa distinctio molestias accusantium accusamus deserunt porro cum cumque recusandae magni iusto eveniet"
   },
   {
     avatar: AVATAR2,
-    name: "Tina Show",
-    review: " Lorem ipsum dolor sit amet consectetur adipisicing eli Aliquam culpa distinctio molestias accusantium accusamus deserunt porro cum cumque recusandae magni iusto eveniet"
-  },
-  {
-    avatar: AVATAR3,
-    name: "Tina Show",
+    name: "Vivek Naik",
     review: " Lorem ipsum dolor sit amet consectetur adipisicing eli Aliquam culpa distinctio molestias accusantium accusamus deserunt porro cum cumque recusandae magni iusto eveniet"
   },
   {
     avatar: AVATAR4,
-    name: "Tina Show",
+    name: "Aniket Rawool",
+    review: " Lorem ipsum dolor sit amet consectetur adipisicing eli Aliquam culpa distinctio molestias accusantium accusamus deserunt porro cum cumque recusandae magni iusto eveniet"
+  },
+  {
+    avatar: AVATAR1,
+    name: "Priyanka B",
+    review: " Lorem ipsum dolor sit amet consectetur adipisicing eli Aliquam culpa distinctio molestias accusantium accusamus deserunt porro cum cumque recusandae magni iusto eveniet"
+  },
+  {
+    avatar: AVATAR2,
+    name: "Akshay Redkar",
+    review: " Lorem ipsum dolor sit amet consectetur adipisicing eli Aliquam culpa distinctio molestias accusantium accusamus deserunt porro cum cumque recusandae magni iusto eveniet"
+  },
+  {
+    avatar: AVATAR1,
+    name: "Mugdha Sutar",
     review: " Lorem ipsum dolor sit amet consectetur adipisicing eli Aliquam culpa distinctio molestias accusantium accusamus deserunt porro cum cumque recusandae magni iusto eveniet"
   },
 ]
